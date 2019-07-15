@@ -17,3 +17,7 @@ export const ERR_QUEUE = {
     msg: "Queue is overflow"
   }
 };
+
+export const ERR_TREE = {
+  component: "TREE"
+};
